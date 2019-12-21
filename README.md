@@ -1,2 +1,2 @@
 # pandas-re
-for Qiita
+Qiitaの記事用のソース置き場
